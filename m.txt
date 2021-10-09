@@ -2,3 +2,4 @@ Hi
 Hello
 Welcome to Devops Class
 Devops having completely tools
+There are so many tools which are used to automate the process
